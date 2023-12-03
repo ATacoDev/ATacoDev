@@ -2,8 +2,8 @@
 
 
 **ATacoDev/ATacoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![BmoDance](https://github.com/ATacoDev/ATacoDev/assets/146070033/ca5a3491-5113-4a80-8c4d-fa8e62762f4f)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
