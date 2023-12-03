@@ -4,7 +4,7 @@
 
 - 🏫 I'm a Software Engineering major with a Game Development minor at Chapman University
 - 💯 Here is where I keep all of my school and personal projects!
-- 🔥 Fun fact: I love climbing, mountain biking, the outdoors, video games, and MUSIC
+- 🔥 Fun facts about me: I love climbing, mountain biking, the outdoors, video games, and MUSIC
 - 🎮 Favorite games: Destiny 1, League of Legends, Valorant, Marvel SNAP, Minecraft, Undertale
 
 Feel free to contact me via email!
