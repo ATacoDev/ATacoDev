@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hey! 👋
 
-
-**ATacoDev/ATacoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![BmoDance](https://github.com/ATacoDev/ATacoDev/assets/146070033/ca5a3491-5113-4a80-8c4d-fa8e62762f4f)
 
+- 🏫 I'm a Software Engineering major with a Game Development minor at Chapman University
+- 💯 Here is where I keep all of my school and personal projects!
+- 🔥 Fun fact: I love climbing, mountain biking, the outdoors, video games, and MUSIC
+- 🎮 Favorite games: Destiny 1, League of Legends, Valorant, Marvel SNAP, Minecraft, Undertale
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
-
+Feel free to contact me via email!
+Email: Johnsonj0721@gmail.com
