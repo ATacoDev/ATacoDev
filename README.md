@@ -6,6 +6,7 @@
 - 💯 Here is where I keep all of my school and personal projects!
 - 🔥 Fun facts about me: I love climbing, mountain biking, the outdoors, video games, and MUSIC
 - 🎮 Favorite games: Destiny 1, League of Legends, Valorant, Marvel SNAP, Undertale
+- 
 
 **Email:** Johnsonj0721@gmail.com
 
