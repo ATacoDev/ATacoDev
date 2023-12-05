@@ -7,8 +7,7 @@
 - 🔥 Fun facts about me: I love climbing, mountain biking, the outdoors, video games, and MUSIC
 - 🎮 Favorite games: Destiny 1, League of Legends, Valorant, Marvel SNAP, Minecraft, Undertale
 
-Feel free to contact me via email!
-Email: Johnsonj0721@gmail.com
+**Email:** Johnsonj0721@gmail.com
 
 **https://www.linkedin.com/in/jaden-johnson-991194200/**
 
