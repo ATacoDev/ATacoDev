@@ -9,3 +9,6 @@
 
 Feel free to contact me via email!
 Email: Johnsonj0721@gmail.com
+
+
+Get to know me @ https://jadjohnson.wixsite.com/atacodev
