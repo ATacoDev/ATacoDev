@@ -10,5 +10,7 @@
 Feel free to contact me via email!
 Email: Johnsonj0721@gmail.com
 
+**https://www.linkedin.com/in/jaden-johnson-991194200/**
 
-Get to know me @ https://jadjohnson.wixsite.com/atacodev
+
+**Get to know me @ https://jadjohnson.wixsite.com/atacodev (under development)**
