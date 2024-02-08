@@ -13,4 +13,4 @@
 
 **LinkedIn:** https://www.linkedin.com/in/jaden-johnson-991194200/
 
-**Get to know me @ https://jadjohnson.wixsite.com/atacodev**
+**Website: https://jadjohnson.wixsite.com/atacodev**
