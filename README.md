@@ -12,5 +12,3 @@
 **Discord:** itzkingtaco
 
 **LinkedIn:** https://www.linkedin.com/in/jaden-johnson-991194200/
-
-**Website: https://jadjohnson.wixsite.com/atacodev**
