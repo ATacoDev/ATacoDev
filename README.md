@@ -12,3 +12,5 @@
 **Discord:** itzkingtaco
 
 **LinkedIn:** https://www.linkedin.com/in/jaden-johnson-991194200/
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ATacoDev&theme=black-ice)](https://git.io/streak-stats)
