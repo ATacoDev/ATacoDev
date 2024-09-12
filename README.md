@@ -3,7 +3,6 @@
 <img src="https://github.com/ATacoDev/ATacoDev/assets/146070033/ca5a3491-5113-4a80-8c4d-fa8e62762f4f" alt="BmoDance" width= "300"/>
 
 - 🏫 I'm a Software Engineering major with a Game Development minor at Chapman University
-- 💯 Here is where I keep all of my school and personal projects!
 - 🔥 Fun facts about me: I love climbing, mountain biking, the outdoors, video games, and MUSIC
 - 🎮 Favorite games: Destiny 1, League of Legends, Valorant, Marvel SNAP, Undertale, Overwatch, Cyberpunk 2077
 
