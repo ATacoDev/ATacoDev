@@ -3,15 +3,15 @@
 ### Hey! 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=ATacoDev&show_icons=true&theme=tokyonight&hide_rank=true" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=ATacoDev&show_icons=true&include_all_commits=true&theme=dark&hide_rank=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ATacoDev&layout=compact&langs_count=8&card_width=320" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ATacoDev&layout=compact&theme=dark&langs_count=8&card_width=320" />
 </a>
 
 ---
 
-```About Me```
+## About me
 
 - 🏫 I'm a Software Engineering major with a Game Development minor at Chapman University
 - 🔥 Fun facts about me: I love climbing, mountain biking, the outdoors, video games, and MUSIC
