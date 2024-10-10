@@ -6,6 +6,8 @@
 - 🔥 Fun facts about me: I love climbing, mountain biking, the outdoors, video games, and MUSIC
 - 🎮 Favorite games: Destiny 1, League of Legends, Valorant, Marvel SNAP, Undertale, Overwatch, Cyberpunk 2077
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 **Email:** Johnsonj0721@gmail.com
 
 **Discord:** itzkingtaco
