@@ -3,7 +3,7 @@
 ### Hey! 👋
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ATacoDev&layout=compact&theme=dark&langs_count=8&card_width=320&hide=Jupyter%20Notebook,ShaderLab,HLSL" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ATacoDev&layout=compact&theme=dark&langs_count=8&card_width=320&hide=Jupyter%20Notebook,ShaderLab,HLSL,EJS" />
 </a>
 
 ---
