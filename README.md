@@ -12,7 +12,7 @@
 
 - 🏫 I'm a Software Engineering major with a Game Development minor at Chapman University
 - 🔥 Fun facts about me: I love climbing, mountain biking, the outdoors, video games, and MUSIC
-- 🎮 Favorite games: Destiny 1, League of Legends, Valorant, Marvel SNAP, Undertale, Overwatch, Cyberpunk 2077
+- 🎮 Favorite games: Destiny 1, League of Legends, Marathon, Undertale, Dispatch, and Overwatch
 
 **Email:** Johnsonj0721@gmail.com
 
